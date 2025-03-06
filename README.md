@@ -1,6 +1,6 @@
-![java-7](https://github.com/user-attachments/assets/a11ab633-d2e4-4fde-8b10-0860f21cae60)
-
 # # 📌 Operações Condicionais e Cálculos com Listas em Java
+
+![java-7](https://github.com/user-attachments/assets/a11ab633-d2e4-4fde-8b10-0860f21cae60)
 
 Este repositório contém diversos programas em Java que exploram o uso de estruturas condicionais, 
 manipulação de dados, e a criação de métodos para modularizar e organizar o código. 
